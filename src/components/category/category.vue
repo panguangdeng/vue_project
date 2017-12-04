@@ -1,0 +1,15 @@
+<template>
+  <div>
+      <p>我是category里面的内容1</p>
+      <p>我是category里面的内容2</p>
+      <p>我是category里面的内容3</p>
+      <p>我是category里面的内容4</p>
+      <p>我是category里面的内容5</p>
+      <p>我是category里面的内容6</p>
+      <p>我是category里面的内容7</p>
+      <p>我是category里面的内容8</p>
+      <p>我是category里面的内容</p>
+      <p>我是category里面的内容</p>
+      <p>我是category里面的内容</p>
+  </div>
+</template>
